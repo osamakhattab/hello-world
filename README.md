@@ -1,5 +1,5 @@
 # hello-world
-Learnin GitHub
+Learnin GitHub features
 
 
-These are new chabges added for the first time
+These are new changes added for the first time
